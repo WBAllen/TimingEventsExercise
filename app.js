@@ -69,4 +69,4 @@ const count2 = setInterval(() => {
         div3.append(p3);
     };
     num--;
-}, 1000);
+}, 100);
